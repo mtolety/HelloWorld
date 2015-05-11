@@ -1,3 +1,3 @@
 Read me
 
-Learn Git hub usage
+Learn git commands
